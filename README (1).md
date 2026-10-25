@@ -153,50 +153,6 @@ All endpoints use `GET` and return JSON. The base path is `/api/`.
 
 Stop ids change whenever the data is reloaded, so always look them up first with `/api/stops/?q=`.
 
-### Example
-
-Find the id of the two stops:
-
-```
-GET /api/stops/?q=surjani
-GET /api/stops/?q=jubilee
-```
-
-Then plan the journey (here the ids are 27 and 9):
-
-```
-GET /api/plan/?from=27&to=9&mode=cheapest
-```
-
-Response (shortened):
-
-```json
-{
-  "from": "Surjani Town",
-  "to": "Karachi University (Jubilee Gate)",
-  "options": [
-    {
-      "mode": "cheapest",
-      "total_minutes": 74,
-      "total_fare": 140,
-      "transfers": 0,
-      "legs": [
-        {
-          "route_number": "Masood",
-          "route_name": "Masood Bus (Malir Halt - Lyari 36)",
-          "fare": 140,
-          "from_stop": "Surjani Town",
-          "to_stop": "Karachi University (Jubilee Gate)",
-          "wait_minutes": 5.0,
-          "ride_minutes": 69,
-          "stops": ["Surjani Town", "4K Chowrangi", "..."]
-        }
-      ],
-      "advisories": []
-    }
-  ]
-}
-```
 
 ### Errors
 
@@ -289,11 +245,8 @@ Software Project Management (506), 6th semester, University of Karachi.
 
 | Name | Role |
 |---|---|
-| _add name_ | Team Lead |
-| _add name_ | Backend development |
-| _add name_ | Frontend / UI-UX |
-| _add name_ | Data research |
+| **Nida Hafeez** | Team Lead |
+| **Mahnoor Khan & Romaisa Ejaz**| Backend development |
+| **Ayesha Abid && Ayesha Khan** | Frontend / UI-UX |
+| **Nida Hafeez and Mahnoor Khan** | Data research |
 
-## License
-
-Academic project. Add a license here if you plan to publish it.
