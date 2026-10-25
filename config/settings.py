@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'transport',
     'planner',
+    'web',
 ]
 
 MIDDLEWARE = [
