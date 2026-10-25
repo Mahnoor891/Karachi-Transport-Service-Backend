@@ -1,0 +1,723 @@
+{
+  "stops": [
+    {
+      "name": "Malir Halt",
+      "area": ""
+    },
+    {
+      "name": "Tank Chowk",
+      "area": ""
+    },
+    {
+      "name": "Askari 5",
+      "area": ""
+    },
+    {
+      "name": "Malir Cantonment Board",
+      "area": ""
+    },
+    {
+      "name": "University Road",
+      "area": ""
+    },
+    {
+      "name": "Safoora Chowrangi",
+      "area": ""
+    },
+    {
+      "name": "Mosamiyat",
+      "area": ""
+    },
+    {
+      "name": "Dow University Ojha Campus",
+      "area": ""
+    },
+    {
+      "name": "Karachi University (Jubilee Gate)",
+      "area": ""
+    },
+    {
+      "name": "NED University",
+      "area": ""
+    },
+    {
+      "name": "Safari Park",
+      "area": ""
+    },
+    {
+      "name": "NIPA Chowrangi",
+      "area": ""
+    },
+    {
+      "name": "Gulshan Chowrangi",
+      "area": ""
+    },
+    {
+      "name": "Imtiaz Omega Mall",
+      "area": ""
+    },
+    {
+      "name": "Lucky One",
+      "area": ""
+    },
+    {
+      "name": "Lucky Textile Mills (FB Area)",
+      "area": ""
+    },
+    {
+      "name": "Sorabh Goth",
+      "area": ""
+    },
+    {
+      "name": "Edhi Welfare Centre",
+      "area": ""
+    },
+    {
+      "name": "Industrial Area (FB Area)",
+      "area": ""
+    },
+    {
+      "name": "Alnoor Mor",
+      "area": ""
+    },
+    {
+      "name": "Shafique Mor",
+      "area": ""
+    },
+    {
+      "name": "Nagan Chowrangi",
+      "area": ""
+    },
+    {
+      "name": "UP Mor",
+      "area": ""
+    },
+    {
+      "name": "Saleem Center",
+      "area": ""
+    },
+    {
+      "name": "Power House Chowrangi",
+      "area": ""
+    },
+    {
+      "name": "4K Chowrangi",
+      "area": ""
+    },
+    {
+      "name": "Surjani Town",
+      "area": ""
+    },
+    {
+      "name": "Abdullah Mor",
+      "area": ""
+    },
+    {
+      "name": "Khuda Ki Basti",
+      "area": ""
+    },
+    {
+      "name": "Lyari 36",
+      "area": ""
+    },
+    {
+      "name": "Badar Chowk",
+      "area": ""
+    },
+    {
+      "name": "Bacha Khan Chowk",
+      "area": ""
+    },
+    {
+      "name": "Abdullah College for Women",
+      "area": ""
+    },
+    {
+      "name": "Board Office Chowrangi",
+      "area": ""
+    },
+    {
+      "name": "Hyderi Market",
+      "area": ""
+    },
+    {
+      "name": "Five Star Chowrangi",
+      "area": ""
+    },
+    {
+      "name": "Jummah Bazar (Bhayani Centre)",
+      "area": ""
+    },
+    {
+      "name": "Sakhi Hassan Chowrangi",
+      "area": ""
+    },
+    {
+      "name": "Erum Shopping (Shadman No. 2)",
+      "area": ""
+    },
+    {
+      "name": "Al-Asif Square",
+      "area": ""
+    },
+    {
+      "name": "Abdul Hasan Isphani Road",
+      "area": ""
+    },
+    {
+      "name": "Maskan Chowrangi",
+      "area": ""
+    },
+    {
+      "name": "Pakhtoonabad",
+      "area": ""
+    },
+    {
+      "name": "Qalandaria Chowk",
+      "area": ""
+    },
+    {
+      "name": "Water Pump",
+      "area": ""
+    },
+    {
+      "name": "Hassan Square",
+      "area": ""
+    },
+    {
+      "name": "Jail Chowrangi",
+      "area": ""
+    },
+    {
+      "name": "Tariq Road",
+      "area": ""
+    },
+    {
+      "name": "Nursery",
+      "area": ""
+    },
+    {
+      "name": "Defence Mor",
+      "area": ""
+    },
+    {
+      "name": "DHA Phase 2",
+      "area": ""
+    },
+    {
+      "name": "Korangi Crossing",
+      "area": ""
+    },
+    {
+      "name": "Korangi No. 1",
+      "area": ""
+    },
+    {
+      "name": "Korangi No. 2",
+      "area": ""
+    },
+    {
+      "name": "Korangi No. 3",
+      "area": ""
+    },
+    {
+      "name": "Korangi No. 4",
+      "area": ""
+    },
+    {
+      "name": "Korangi No. 5",
+      "area": ""
+    },
+    {
+      "name": "Korangi No. 6",
+      "area": ""
+    },
+    {
+      "name": "Model Colony",
+      "area": ""
+    },
+    {
+      "name": "Malir Cantt",
+      "area": ""
+    },
+    {
+      "name": "Liaquatabad",
+      "area": ""
+    },
+    {
+      "name": "Teen Hatti",
+      "area": ""
+    },
+    {
+      "name": "Guru Mandir",
+      "area": ""
+    },
+    {
+      "name": "Saddar",
+      "area": ""
+    },
+    {
+      "name": "Tower",
+      "area": ""
+    },
+    {
+      "name": "Kemari",
+      "area": ""
+    },
+    {
+      "name": "North Karachi",
+      "area": ""
+    },
+    {
+      "name": "Nazimabad",
+      "area": ""
+    },
+    {
+      "name": "Lasbela",
+      "area": ""
+    },
+    {
+      "name": "Tibet Centre",
+      "area": ""
+    }
+  ],
+  "routes": [
+    {
+      "number": "Masood",
+      "name": "Masood Bus (Malir Halt - Lyari 36)",
+      "fare": 200,
+      "min_fare": 30,
+      "first_bus_time": "05:30",
+      "last_bus_time": "22:00",
+      "frequency_minutes": 10,
+      "stops": [
+        [
+          "Malir Halt",
+          0
+        ],
+        [
+          "Tank Chowk",
+          4
+        ],
+        [
+          "Askari 5",
+          3
+        ],
+        [
+          "Malir Cantonment Board",
+          4
+        ],
+        [
+          "University Road",
+          8
+        ],
+        [
+          "Safoora Chowrangi",
+          5
+        ],
+        [
+          "Mosamiyat",
+          4
+        ],
+        [
+          "Dow University Ojha Campus",
+          3
+        ],
+        [
+          "Karachi University (Jubilee Gate)",
+          4
+        ],
+        [
+          "NED University",
+          3
+        ],
+        [
+          "Safari Park",
+          4
+        ],
+        [
+          "NIPA Chowrangi",
+          3
+        ],
+        [
+          "Gulshan Chowrangi",
+          4
+        ],
+        [
+          "Imtiaz Omega Mall",
+          3
+        ],
+        [
+          "Lucky One",
+          4
+        ],
+        [
+          "Lucky Textile Mills (FB Area)",
+          5
+        ],
+        [
+          "Sorabh Goth",
+          5
+        ],
+        [
+          "Edhi Welfare Centre",
+          4
+        ],
+        [
+          "Industrial Area (FB Area)",
+          5
+        ],
+        [
+          "Alnoor Mor",
+          4
+        ],
+        [
+          "Shafique Mor",
+          3
+        ],
+        [
+          "Nagan Chowrangi",
+          4
+        ],
+        [
+          "UP Mor",
+          3
+        ],
+        [
+          "Saleem Center",
+          3
+        ],
+        [
+          "Power House Chowrangi",
+          3
+        ],
+        [
+          "4K Chowrangi",
+          3
+        ],
+        [
+          "Surjani Town",
+          6
+        ],
+        [
+          "Abdullah Mor",
+          4
+        ],
+        [
+          "Khuda Ki Basti",
+          5
+        ],
+        [
+          "Lyari 36",
+          7
+        ]
+      ]
+    },
+    {
+      "number": "G-17",
+      "name": "G-17 Bus (Badar Chowk - University Road)",
+      "fare": 200,
+      "min_fare": 30,
+      "first_bus_time": "06:00",
+      "last_bus_time": "21:30",
+      "frequency_minutes": 15,
+      "stops": [
+        [
+          "Badar Chowk",
+          0
+        ],
+        [
+          "Bacha Khan Chowk",
+          3
+        ],
+        [
+          "Abdullah College for Women",
+          3
+        ],
+        [
+          "Board Office Chowrangi",
+          4
+        ],
+        [
+          "Hyderi Market",
+          3
+        ],
+        [
+          "Five Star Chowrangi",
+          4
+        ],
+        [
+          "Jummah Bazar (Bhayani Centre)",
+          3
+        ],
+        [
+          "Sakhi Hassan Chowrangi",
+          4
+        ],
+        [
+          "Erum Shopping (Shadman No. 2)",
+          4
+        ],
+        [
+          "Al-Asif Square",
+          3
+        ],
+        [
+          "Abdul Hasan Isphani Road",
+          4
+        ],
+        [
+          "Maskan Chowrangi",
+          4
+        ],
+        [
+          "Safari Park",
+          4
+        ],
+        [
+          "Karachi University (Jubilee Gate)",
+          4
+        ],
+        [
+          "NED University",
+          3
+        ],
+        [
+          "Mosamiyat",
+          3
+        ],
+        [
+          "Safoora Chowrangi",
+          4
+        ],
+        [
+          "University Road",
+          5
+        ]
+      ]
+    },
+    {
+      "number": "F-11",
+      "name": "F-11 Bus (Pakhtoonabad - Korangi No. 6)",
+      "fare": 200,
+      "min_fare": 30,
+      "first_bus_time": "06:00",
+      "last_bus_time": "21:00",
+      "frequency_minutes": 15,
+      "stops": [
+        [
+          "Pakhtoonabad",
+          0
+        ],
+        [
+          "Qalandaria Chowk",
+          4
+        ],
+        [
+          "Water Pump",
+          4
+        ],
+        [
+          "NIPA Chowrangi",
+          5
+        ],
+        [
+          "Gulshan Chowrangi",
+          4
+        ],
+        [
+          "Hassan Square",
+          4
+        ],
+        [
+          "Jail Chowrangi",
+          5
+        ],
+        [
+          "Tariq Road",
+          5
+        ],
+        [
+          "Nursery",
+          5
+        ],
+        [
+          "Defence Mor",
+          5
+        ],
+        [
+          "DHA Phase 2",
+          5
+        ],
+        [
+          "Korangi Crossing",
+          6
+        ],
+        [
+          "Korangi No. 1",
+          4
+        ],
+        [
+          "Korangi No. 2",
+          3
+        ],
+        [
+          "Korangi No. 3",
+          3
+        ],
+        [
+          "Korangi No. 4",
+          3
+        ],
+        [
+          "Korangi No. 5",
+          3
+        ],
+        [
+          "Korangi No. 6",
+          4
+        ]
+      ]
+    },
+    {
+      "number": "A3",
+      "name": "A3 Bus (Malir Halt - Kemari)",
+      "fare": 200,
+      "min_fare": 30,
+      "first_bus_time": "05:30",
+      "last_bus_time": "22:00",
+      "frequency_minutes": 12,
+      "stops": [
+        [
+          "Malir Halt",
+          0
+        ],
+        [
+          "Model Colony",
+          4
+        ],
+        [
+          "Malir Cantt",
+          4
+        ],
+        [
+          "Safoora Chowrangi",
+          8
+        ],
+        [
+          "University Road",
+          5
+        ],
+        [
+          "NIPA Chowrangi",
+          5
+        ],
+        [
+          "Hassan Square",
+          4
+        ],
+        [
+          "Liaquatabad",
+          5
+        ],
+        [
+          "Teen Hatti",
+          5
+        ],
+        [
+          "Guru Mandir",
+          5
+        ],
+        [
+          "Saddar",
+          6
+        ],
+        [
+          "Tower",
+          4
+        ],
+        [
+          "Kemari",
+          8
+        ]
+      ]
+    },
+    {
+      "number": "D7",
+      "name": "D7 Bus (Surjani Town - Tower)",
+      "fare": 200,
+      "min_fare": 30,
+      "first_bus_time": "06:00",
+      "last_bus_time": "21:30",
+      "frequency_minutes": 15,
+      "stops": [
+        [
+          "Surjani Town",
+          0
+        ],
+        [
+          "North Karachi",
+          6
+        ],
+        [
+          "Nagan Chowrangi",
+          5
+        ],
+        [
+          "Sakhi Hassan Chowrangi",
+          5
+        ],
+        [
+          "Five Star Chowrangi",
+          4
+        ],
+        [
+          "Hyderi Market",
+          4
+        ],
+        [
+          "Board Office Chowrangi",
+          3
+        ],
+        [
+          "Nazimabad",
+          5
+        ],
+        [
+          "Lasbela",
+          5
+        ],
+        [
+          "Guru Mandir",
+          5
+        ],
+        [
+          "Saddar",
+          6
+        ],
+        [
+          "Tibet Centre",
+          4
+        ],
+        [
+          "Tower",
+          3
+        ]
+      ]
+    }
+  ],
+  "advisories": [
+    {
+      "route": "Masood",
+      "stop": null,
+      "level": "info",
+      "message": "Placeholder: replace with verified safety advice for this route."
+    },
+    {
+      "route": null,
+      "stop": "Saddar",
+      "level": "caution",
+      "message": "Placeholder: replace with verified safety advice for this stop."
+    }
+  ]
+}
